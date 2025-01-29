@@ -3,6 +3,12 @@
 ## Introduction
 In this lab, you will learn and practice various Linux commands for locating files, searching through system directories, and finding specific content within files. These skills are essential for system administrators and security professionals.
 
+## Pull the docker image
+- docker pull jesquivel331/linux-search-lab:latest
+
+## Run the docker image
+- docker run -it jesquivel331/linux-search-lab
+
 ## Objectives
 - Master different file location commands in Linux
 - Learn to use various find command options
@@ -122,6 +128,6 @@ In this lab, you will learn and practice various Linux commands for locating fil
 5. Use the man pages for detailed command information
 
 ## Submission
-Your progress is automatically tracked by the checker program. Use the progress command to verify all tasks are completed before the lab deadline.
+Your progress is automatically tracked by the checker program. Use the 'check progress' command to verify all tasks are completed before the lab deadline.  Submit a screenshot of the completed tasks (1 - 15).
 
 Good luck!
