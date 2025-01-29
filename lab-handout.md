@@ -109,13 +109,13 @@ In this lab, you will learn and practice various Linux commands for locating fil
     - Command format: `locate people.csv -exec grep 'Engineering' {} \;`
 
 ## Using the Checker Program
-- To check a specific task: `./checker.py <task_number> <your_command>`
-- To view progress: `./checker.py progress`
-- To see hints: `./checker.py hints`
-- To list all tasks: `./checker.py`
+- To answer a specific task: `check <task_number> <your_command>`
+- To view progress: `check progress`
+- To see hints: `check hints`
+- To list all tasks: `check`
 
 ## Grading
-- Total possible points: 130
+- Total points to get: 100
 - Each task has specific point values as listed above
 - Points are awarded only for correct completion
 - Multiple attempts are allowed
